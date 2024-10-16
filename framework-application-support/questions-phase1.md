@@ -10,6 +10,7 @@ Activity 1.2 -- Questions to help with the identification of behavior bundles an
 | What types information/physical resources are needed to provide these behavior bundles? |
 | What types information/physical resources need to be exchanged between different behavior bundles? |
 | What kind of physical/digital components could the CPS be composed of? |
+
 Activity 1.4 -- Questions to guide the refinement of subject-oriented models, while determining different automation level and task allocation possibilities.
 | Iterative Model Refinement \& HMT Considerations -- Automation Level, Task Allocation |
 | -------- | 
@@ -20,6 +21,7 @@ Activity 1.4 -- Questions to guide the refinement of subject-oriented models, wh
 | Considering each subject in the SID, which tasks need to be carried out as part of this behavior? |
 | What is the required temporal/causal order of these tasks? |
 | Can these tasks be arranged in a single sequence without any parallel paths? \textit{(If yes, then the SBD can be defined; If no, then the parallel paths have to become their own subjects)} |
+
 | Model Validation |
 | -------- | 
 | Can all possible paths in the process models be traversed to their respective, specified end states during execution? |
