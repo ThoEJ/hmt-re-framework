@@ -11,7 +11,7 @@ Activity 1.2 -- Questions to help with the identification of behavior bundles an
 | What types information/physical resources need to be exchanged between different behavior bundles? |
 | What kind of physical/digital components could the CPS be composed of? |
 
-Activity 1.4 -- Questions to guide the refinement of subject-oriented models, while determining different automation level and task allocation possibilities.
+Activity 1.4 -- Questions to guide the refinement of subject-oriented models, while determining different automation level and task allocation possibilities, as well as model validation.
 | Iterative Model Refinement \& HMT Considerations -- Automation Level, Task Allocation |
 | -------- | 
 | Considering each subject in a SID to be refined, should the subject behavior in the future be assigned to a machine agent (CPS component, other system) or a human agent (CPS stakeholder identified previously)? |
