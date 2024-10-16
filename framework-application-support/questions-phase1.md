@@ -10,3 +10,19 @@ Activity 1.2 -- Questions to help with the identification of behavior bundles an
 | What types information/physical resources are needed to provide these behavior bundles? |
 | What types information/physical resources need to be exchanged between different behavior bundles? |
 | What kind of physical/digital components could the CPS be composed of? |
+Activity 1.4 -- Questions to guide the refinement of subject-oriented models, while determining different automation level and task allocation possibilities.
+| Iterative Model Refinement \& HMT Considerations -- Automation Level, Task Allocation |
+| -------- | 
+| Considering each subject in a SID to be refined, should the subject behavior in the future be assigned to a machine agent (CPS component, other system) or a human agent (CPS stakeholder identified previously)? |
+| What would the respective advantages and disadvantages of using a human or machine agent for this subject behavior be? |
+| Could the subject behavior be assigned to multiple agents for collaborative execution (i.e., part of the behavior is done by a human agent and the other part by a machine agent)? \textit{(If yes, then break it down into multiple subjects that interact through message exchanges)} |
+| Are multiple alternative assignment possibilities of potential interest? (i.e., subject behavior could be done by either a human or a machine agent)? \textit{(If yes, then create multiple model variants)} |
+| Considering each subject in the SID, which tasks need to be carried out as part of this behavior? |
+| What is the required temporal/causal order of these tasks? |
+| Can these tasks be arranged in a single sequence without any parallel paths? \textit{(If yes, then the SBD can be defined; If no, then the parallel paths have to become their own subjects)} |
+| Model Validation |
+| -------- | 
+| Can all possible paths in the process models be traversed to their respective, specified end states during execution? |
+| Does the flow of states arising from the execution of the models correspond to what was envisioned by the design session participants during modeling? |
+| Are any critical steps in the behavior missing? |
+| Are there any superfluous steps in the behavior that can potentially be cut? |
