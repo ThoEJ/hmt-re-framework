@@ -1,4 +1,5 @@
-Activity 2.1 – What-If-Questions to help discover HMT process problems at multiple layers of analysis. The corresponding model and scenario elements that should be examined are highlighted for each layer.
+Activity 2.1 – What-If-Questions to help discover HMT process problems at multiple layers of analysis. The corresponding model and scenario elements that should be examined are highlighted for each layer:
+
 | Action (SBD states, Scenario actions) |
 | -------- |
 | What if this action does not complete or does not complete on time? |
@@ -51,7 +52,8 @@ Activity 2.1 – What-If-Questions to help discover HMT process problems at mult
 | What if there is a communication failure between [MACHINEAGENT1] and [MACHINEAGENT2] during this action? |
 | What if there is a communication breakdown between [HUMANAGENT1] and [HUMANAGENT2] during this action? |
 
-Activity 2.1 -- Questions to help analyse a concrete instance of a process problem according to HMT dimensions.
+Activity 2.1 -- Questions to help analyse a concrete instance of a process problem according to HMT dimensions:
+
 | Transparency |
 | -------- |
 | *Observability*: How could the problem be detected by a HA/MA? |
