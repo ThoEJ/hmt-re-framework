@@ -15,12 +15,12 @@ Activity 1.4 -- Questions to guide the refinement of subject-oriented models, wh
 | Iterative Model Refinement \& HMT Considerations -- Automation Level, Task Allocation |
 | -------- | 
 | Considering each subject in a SID to be refined, should the subject behavior in the future be assigned to a machine agent (CPS component, other system) or a human agent (CPS stakeholder identified previously)? |
-| What would the respective advantages and disadvantages of using a human or machine agent for this subject behavior be? |
-| Could the subject behavior be assigned to multiple agents for collaborative execution (i.e., part of the behavior is done by a human agent and the other part by a machine agent)? *(If yes, then break it down into multiple subjects that interact through message exchanges)* |
-| Are multiple alternative assignment possibilities of potential interest? (i.e., subject behavior could be done by either a human or a machine agent)? *(If yes, then create multiple model variants)* |
+| : What would the respective advantages and disadvantages of using a human or machine agent for this subject behavior be? |
+| : Could the subject behavior be assigned to multiple agents for collaborative execution (i.e., part of the behavior is done by a human agent and the other part by a machine agent)? *(If yes, then break it down into multiple subjects that interact through message exchanges)* |
+| : Are multiple alternative assignment possibilities of potential interest? (i.e., subject behavior could be done by either a human or a machine agent)? *(If yes, then create multiple model variants)* |
 | Considering each subject in the SID, which tasks need to be carried out as part of this behavior? |
-| What is the required temporal/causal order of these tasks? |
-| Can these tasks be arranged in a single sequence without any parallel paths? *(If yes, then the SBD can be defined; If no, then the parallel paths have to become their own subjects)* |
+| : What is the required temporal/causal order of these tasks? |
+| : Can these tasks be arranged in a single sequence without any parallel paths? *(If yes, then the SBD can be defined; If no, then the parallel paths have to become their own subjects)* |
 
 | Model Validation |
 | -------- | 
