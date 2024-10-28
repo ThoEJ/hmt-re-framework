@@ -30,7 +30,7 @@ Guiding Questions for Semi-Structured Expert Interview:
 
 | Meta-Level Questions |
 | -------- |
-| To what extent are the current objectives (O1 &ndash; structured and traceable treatment of HMT consideration, O2 &ndash; understandable representations for different stakeholders, and O3 &ndash; ability to deal with dynamic adaptations) that are being pursued appropriate/practically important in this domain? |
+| To what extent are the current objectives (O1 &ndash; structured treatment of HMT considerations, O2 &ndash; traceable process and understandable representations for different stakeholders, and O3 &ndash; ability to deal with characteristics of CPS/CPS Development) that are being pursued appropriate/practically important in this domain? |
 | What additional qualities may prove worthwhile to consider? |
 
 
