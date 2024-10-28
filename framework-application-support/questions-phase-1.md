@@ -1,4 +1,4 @@
-Activity 1.2 -- Questions to help with the identification of behavior bundles and communication flows based on use case context as candidates for subjects and message exchanges:
+Activity 1.2 &ndash; Questions to help with the identification of behavior bundles and communication flows based on use case context as candidates for subjects and message exchanges:
 
 | Identification of Behavior Bundles, Communication Flows, and Human/Machine Agents |
 | -------- | 
@@ -12,9 +12,9 @@ Activity 1.2 -- Questions to help with the identification of behavior bundles an
 | What types information/physical resources need to be exchanged between different behavior bundles? |
 | What kind of physical/digital components could the CPS be composed of? |
 
-Activity 1.4 -- Questions to guide the refinement of subject-oriented models, while determining different automation level and task allocation possibilities, as well as model validation:
+Activity 1.4 &ndash; Questions to guide the refinement of subject-oriented models, while determining different automation level and task allocation possibilities, as well as model validation:
 
-| Iterative Model Refinement \& HMT Considerations -- Automation Level, Task Allocation |
+| Iterative Model Refinement \& HMT Considerations &ndash; Automation Level, Task Allocation |
 | -------- | 
 | Considering each subject in a SID to be refined, should the subject behavior in the future be assigned to a machine agent (CPS component, other system) or a human agent (CPS stakeholder identified previously)? |
 | What would the respective advantages and disadvantages of using a human or machine agent for this subject behavior be? |
