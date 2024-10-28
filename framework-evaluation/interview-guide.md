@@ -1,5 +1,9 @@
 Guiding Questions for Semi-Structured Expert Interview:
 
+| Introduction |
+| -------- |
+| What is your professional experience concerning RE for CPS? |
+
 | Main Objective 1 &ndash; Structured Treatment of HMT Considerations |
 | -------- |
 | To what extent can the individual roles of both human and machine agents in the CPS be clearly defined?  |
