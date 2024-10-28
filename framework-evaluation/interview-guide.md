@@ -2,7 +2,7 @@ Guiding Questions for Semi-Structured Expert Interview:
 
 | Main Objective 1 &ndash; Structured Treatment of HMT Considerations |
 | -------- |
-| To what extent can the individual roles of both human and machine agents in the CPS clearly defined?  |
+| To what extent can the individual roles of both human and machine agents in the CPS be clearly defined?  |
 | To what extent can the CPS be tailored to any specific application scenario (regardless of the applied CPS technology)? |
 | To what extent does the approach support the specification of HMT combinations for a specific CPS? |
 | To what extent can operational rules be defined, so that CPS objectives can be met without any occupational hazards to any of the human agents? |
@@ -15,7 +15,7 @@ Guiding Questions for Semi-Structured Expert Interview:
 | -------- |
 | To what extent is the methodology process transparent and traceable? |
 | To what extent are the used model representations understandable for different domain stakeholders that may be involved? |
-| How could transparency, traceability, and understandabiltiy be further improved? |
+| How could transparency, traceability, and understandability be further improved? |
 
 | Side Objective 3 &ndash; Ability to Deal with Characteristics of CPS/CPS Development |
 | -------- |
