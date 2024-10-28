@@ -3,6 +3,8 @@ Guiding Questions for Semi-Structured Expert Interview:
 | Introduction |
 | -------- |
 | What is your professional experience concerning RE for CPS? |
+| What is your professional experience concerning HMT? |
+| What is your professional experience concerning modeling languages? |
 
 | Main Objective 1 &ndash; Structured Treatment of HMT Considerations |
 | -------- |
