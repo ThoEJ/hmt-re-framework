@@ -67,7 +67,7 @@ Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process 
 
 | Coordination |
 | -------- |
-| *Directability*: How well could the HA direct the resources of the the MA? |
+| *Directability*: How well could the HA direct the resources of the MA? |
 | *Calibrated Trust*: How could the level between the HA and the MA be improved? |
 | *Common Ground*: How could the sharing of knowledge (beliefs, assumptions?) between the HA and the MA be improved? |
 
