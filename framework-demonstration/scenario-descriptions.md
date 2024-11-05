@@ -1,6 +1,9 @@
-The following table lists three scenarios for the outlined logistics use case. Used abbreviations for actors and systems: LCW &ndash; Logistics Center Worker, ATS &ndash; Autonomous Transport System, SCMS &ndash; Supply Chain Management System, ILSS &ndash; Inbound Location Sensor System, OLSS &ndash; Outbound Location Sensor System, TCSS &ndash; Transport Container Smart Shelf, SMSS &ndash; Sensor Module Smart Shelf. Performed actions and possible end states are denoted by  an Ax or Ex, respectively:
+Scenario Variants for the Logistics Business Operation
+======================================================
 
-| Scenario 1 | Scenario 2 | Scenario 3 |
+The following table lists three scenario variants for the outlined logistics business operation. Used abbreviations for actors and systems: LCW &ndash; Logistics Center Worker, ATS &ndash; Autonomous Transport System, SCMS &ndash; Supply Chain Management System, ILSS &ndash; Inbound Location Sensor System, OLSS &ndash; Outbound Location Sensor System, TCSS &ndash; Transport Container Smart Shelf, SMSS &ndash; Sensor Module Smart Shelf. Performed actions and possible end states are denoted by  an Ax or Ex, respectively:
+
+| Scenario Variant 1 | Scenario Variant 2 | Scenario Variant 3 |
 | -------- | ------- | ------- |
 | Trigger: Package arrival at inbound location. | Trigger: Package arrival at inbound location. | Trigger: Package arrival at inbound location. |
 | A1: The LCW moves to the inbound location. | A1: The ILSS detects the package arrival. | A1: The ILSS detects the package arrival. |
