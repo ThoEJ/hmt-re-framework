@@ -1,3 +1,6 @@
+Checklists/Questions for Phase 2
+================================
+
 Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at multiple layers of analysis. The corresponding model and scenario elements that should be examined are highlighted for each layer:
 
 | Action (SBD states, Scenario actions) |
@@ -52,7 +55,7 @@ Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at 
 | What if there is a communication failure between [MACHINEAGENT1] and [MACHINEAGENT2] during this action? |
 | What if there is a communication breakdown between [HUMANAGENT1] and [HUMANAGENT2] during this action? |
 
-Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process problem according to HMT dimensions:
+Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process problem according to HMT dimensions. Based on McDermott et al. [1]
 
 | Transparency |
 | -------- |
@@ -70,4 +73,8 @@ Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process 
 | *Directability*: How well could the HA direct the resources of the MA? |
 | *Calibrated Trust*: How could the level between the HA and the MA be improved? |
 | *Common Ground*: How could the sharing of knowledge (beliefs, assumptions?) between the HA and the MA be improved? |
+
+References
+==========
+[1] McDermott, P., Dominguez, C., Kasdaglis, N., Ryan, M., Trahan, I., Nelson, A., et al.: Human-machine teaming systems engineering guide. MITRE Corp Bedford MA Bedford United States (2018)
 
