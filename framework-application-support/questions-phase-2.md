@@ -55,7 +55,7 @@ Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at 
 | What if there is a communication failure between [MACHINEAGENT1] and [MACHINEAGENT2] during this action? |
 | What if there is a communication breakdown between [HUMANAGENT1] and [HUMANAGENT2] during this action? |
 
-Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process problem according to HMT dimensions. Based on McDermott et al. [1]
+Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process problem according to HMT dimensions. Based on McDermott et al. [1]:
 
 | Transparency |
 | -------- |
