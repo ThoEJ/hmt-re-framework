@@ -1,7 +1,7 @@
 Checklists/Questions for Phase 2
 ================================
 
-Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at multiple layers of analysis. The corresponding model and scenario elements that should be examined are highlighted for each layer:
+Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at multiple layers of analysis based on Maiden [1]. The corresponding model and scenario elements that should be examined are highlighted for each layer:
 
 | Action (SBD states, Scenario actions) |
 | -------- |
@@ -76,5 +76,7 @@ Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process 
 
 References
 ==========
-[1] McDermott, P., Dominguez, C., Kasdaglis, N., Ryan, M., Trahan, I., Nelson, A., et al.: Human-machine teaming systems engineering guide. MITRE Corp Bedford MA Bedford United States (2018)
+[1] Maiden, N.A.M.: Systematic scenario walkthroughs with ART-SCENE. In: Alexander, I., Maiden, N.A.M. (eds.) Scenarios, Stories, Use Cases: Through the Systems
+Development Life-Cycle, pp. 161–178. John Wiley & Sons, New York (2004)
+[2] McDermott, P., Dominguez, C., Kasdaglis, N., Ryan, M., Trahan, I., Nelson, A., et al.: Human-machine teaming systems engineering guide. MITRE Corp Bedford MA Bedford United States (2018)
 
