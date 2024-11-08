@@ -78,5 +78,6 @@ References
 ==========
 [1] Maiden, N.A.M.: Systematic scenario walkthroughs with ART-SCENE. In: Alexander, I., Maiden, N.A.M. (eds.) Scenarios, Stories, Use Cases: Through the Systems
 Development Life-Cycle, pp. 161–178. John Wiley & Sons, New York (2004)
+
 [2] McDermott, P., Dominguez, C., Kasdaglis, N., Ryan, M., Trahan, I., Nelson, A., et al.: Human-machine teaming systems engineering guide. MITRE Corp Bedford MA Bedford United States (2018)
 
