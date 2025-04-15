@@ -3,11 +3,11 @@ Checklists/Questions for Phase 2
 
 Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at multiple layers of analysis based on Maiden [1]. The corresponding model and scenario elements that should be examined are highlighted for each layer:
 
-| Action (SBD states, Scenario actions) |
+| Action (SBD states, Scenario action descriptions) |
 | -------- |
 | What if this action does not complete or does not complete on time? |
 
-| Information Manipulated (SID messages, SBD states, SBD subject data definition list, Scenario actions) |
+| Information Manipulated (SID messages, SBD states, SBD subject data definition list, Scenario action descriptions) |
 | -------- |
 | What if the information manipulated in this action is out-of-date? |
 | What if the information manipulated is inappropriate for this action? |
@@ -15,7 +15,7 @@ Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at 
 | What if the information manipulated in this action is too general or detailed? |
 | What if the information model is incorrect? |
 
-| Agent (SID subject, SBD states, Scenario actions) |
+| Agent (SID subject, SBD states, Scenario action descriptions) |
 | -------- |
 | What if [AGENT1] is unavailable or malfunctioning during this action? |
 | What if [AGENT1] is functioning incorrectly during this action? |
@@ -23,31 +23,31 @@ Activity 2.1 &ndash; What-If-Questions to help discover HMT process problems at 
 | What if something unusual occurs in [AGENT1]'s environment during this action? |
 | What if something unusual occurs in [AGENT1]'s organisation during this action? |
 
-| Event (SBD states, Scenario actions) |
+| Event (SBD states, Scenario action descriptions) |
 | -------- |
 | What if this event does not occur in this scenario? |
 | What if this event occurs earlier or later in time than expected? |
 | What if this event occurs more or less frequently than expected? |
 | What if a different event occurs instead of this event in the scenario? | 
 
-| Object (SBD states, Scenario actions) |
+| Object (SBD states, Scenario action descriptions) |
 | -------- |
 | What if [OBJECT1] is unavailable or not operational during this action? |
 
-| Human Agent (SID subject, SBD states, Scenario actions) |
+| Human Agent (SID subject, SBD states, Scenario action descriptions) |
 | -------- |
 | What if [HUMANAGENT] has some unusual physical characteristics that affect his/her behaviour during this action? |
 | What if [HUMANAGENT] is physically unable to undertake this action? |
 | What if [HUMANAGENT] is unusually young or old? |
 | What if [HUMANAGENT]'s gender is different to what is expected during this action? |
 
-| Machine Agent (SID subject, SBD states, Scenario actions) |
+| Machine Agent (SID subject, SBD states, Scenario action descriptions) |
 | -------- |
 | What if [MACHINEAGENT] undertakes some unusual behaviour or exhibits some unusual state during the action? |
 | What if [MACHINEAGENT] has a problem with its power supply during this action? |
 | What if [MACHINEAGENT] has a problem with its hardware during this action? |
 | What if [MACHINEAGENT]'s peripheral device fails during this action? |
-| What if [MACHINEAGENT] is interface fails during this action? | 
+| What if [MACHINEAGENT]'s interface fails during this action? | 
 
 | Agent Communication (SID subject, SID message exchange) |
 | -------- |
@@ -71,7 +71,7 @@ Activity 2.1 &ndash; Questions to help analyse a concrete instance of a process 
 | Coordination |
 | -------- |
 | *Directability*: How well could the HA direct the resources of the MA? |
-| *Calibrated Trust*: How could the level between the HA and the MA be improved? |
+| *Calibrated Trust*: How could the level of trust between the HA and the MA be improved? |
 | *Common Ground*: How could the sharing of knowledge (beliefs, assumptions?) between the HA and the MA be improved? |
 
 References
