@@ -1,7 +1,7 @@
 Scenario Variants for the Logistics Business Operation
 ======================================================
 
-The following table lists three scenario variants for the outlined logistics business operation. Used abbreviations for actors and systems: LCW &ndash; Logistics Center Worker, ATS &ndash; Autonomous Transport System, SCMS &ndash; Supply Chain Management System, ILSS &ndash; Inbound Location Sensor System, OLSS &ndash; Outbound Location Sensor System, TCSS &ndash; Transport Container Smart Shelf, SMSS &ndash; Sensor Module Smart Shelf. Performed actions and possible end states are denoted by  an Ax or Ex, respectively:
+The following table lists three scenario variants for the outlined logistics business operation. Used abbreviations for actors and systems: LCW &ndash; Logistics Center Worker, ATS &ndash; Autonomous Transport System, SCMS &ndash; Supply Chain Management System, ILSS &ndash; Inbound Location Sensor System, OLSS &ndash; Outbound Location Sensor System, TCSS &ndash; Transport Container Smart Shelf, SMSS &ndash; Sensor Module Smart Shelf. Performed actions and possible end states are denoted by  an A*x* or E*x*, respectively:
 
 | Scenario Variant Baseline | Scenario Variant 1 | Scenario Variant 2 |
 | -------- | ------- | ------- |
