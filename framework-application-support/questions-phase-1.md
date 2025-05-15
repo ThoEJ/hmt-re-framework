@@ -3,7 +3,7 @@ Checklists/Questions for Phase 1
 
 Activity 1.2 &ndash; Questions to help with the identification of high-level business operation activities, required information/resources, and communication flows as candidates for subjects and message exchanges:
 
-| Identification of Behavior Bundles, Communication Flows, and Human/Machine Agents |
+| Identification of High-Level Activities, Communication Flows, and Human/Machine Agents |
 | -------- | 
 | What activities are generally needed to accomplish the business operation? | 
 | Considering existing systems that should be replaced, what activities did they perform? | 
